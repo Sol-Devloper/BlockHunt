@@ -8,4 +8,4 @@
 
 💞️ Looking to collaborate on blockchain projects.
 
-📫 Email: Amitkkochar91@gmail.com
+📫 Email: Amitkochar91@gmail.com
