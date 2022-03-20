@@ -9,3 +9,5 @@
 💞️ Looking to collaborate on blockchain projects.
 
 📫 Email: blockhunt14@gmail.com
+
+💬 Discord: Blockhunt#4338
