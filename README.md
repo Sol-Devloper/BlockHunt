@@ -1,6 +1,6 @@
 # AmitKochar
 
-👋 Hi, I’m @Amitkochar
+👋 Hi, I am a Solidity developer.
 
 👀 actively looking for a blockchain dev role.
 
