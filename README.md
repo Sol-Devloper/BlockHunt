@@ -1,4 +1,4 @@
-# AmitKochar
+
 
 👋 Hi, I am a Solidity developer.
 
@@ -8,4 +8,4 @@
 
 💞️ Looking to collaborate on blockchain projects.
 
-📫 Email: Amitkochar91@gmail.com
+📫 Email: blockhunt14@gmail.com
